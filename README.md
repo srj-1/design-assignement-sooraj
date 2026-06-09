@@ -1,1 +1,49 @@
-**Enter the details of your work and file structure of each days here**
+```text
+design-assignement-sooraj/
+│
+├── day1/
+│   │
+│   ├── BCD_Adder/
+│   │   ├── design/
+│   │   │   └── design_bcd.v
+│   │   ├── tb/
+│   │   │   └── BCD_tb.v
+│   │   └── bcd.md
+│   │
+│   └── Ripple_Carry_Adder/
+│       ├── design/
+│       │   └── design_rca.v
+│       ├── tb/
+│       │   └── RCA_tb.v
+│       └── rca.md
+│
+└── Day2/
+    │
+    ├── 2x4 Decoder/
+    │   ├── design/
+    │   │   └── design_decoder.v
+    │   ├── tb/
+    │   │   └── decoder_tb.v
+    │   └── decoder.md
+    │
+    ├── DFF/
+    │   ├── design/
+    │   │   └── design_dff.v
+    │   ├── tb/
+    │   │   └── DFF_tb.v
+    │   └── dff.md
+    │
+    ├── SR_ff/
+    │   ├── design/
+    │   │   └── design_srff.v
+    │   ├── tb/
+    │   │   └── srff_tb.v
+    │   └── srff.md
+    │
+    └── USR/
+        ├── design/
+        │   └── design_usr.v
+        ├── tb/
+        │   └── USR_tb.v
+        └── usr.md
+```
