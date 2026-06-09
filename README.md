@@ -3,7 +3,11 @@ Digital IC Design Internship
 This repository contains the RTL design and verification assignments completed during my Digital IC Design Internship. The projects are implemented in Verilog HDL and verified using testbenches.
 
 Repository Structure
+
+
 design-assignement-sooraj/
+
+
 │
 ├── day1/
 │   │
