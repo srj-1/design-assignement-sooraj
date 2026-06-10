@@ -1,4 +1,4 @@
-# Mini Project: Design and Integration of Face Detection Module, FIFO Buffer, and FSM-Based Output Controller
+# Task 3: Design and Integration of Face Detection Module, FIFO Buffer, and FSM-Based Output Controller
 
 ## 1. Objective
 
