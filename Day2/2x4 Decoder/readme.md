@@ -1,4 +1,4 @@
-# Day 1 – Assignment 2: 2-to-4 Decoder Design and Verification
+# Day 2 – Assignment 2: 2-to-4 Decoder Design and Verification
 
 ## 1. Objective
 
