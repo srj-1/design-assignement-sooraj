@@ -268,39 +268,7 @@ Simulation waveforms confirmed:
 
 <img width="1552" height="769" alt="image" src="https://github.com/user-attachments/assets/c5ad31ae-f22c-486f-b22c-f870947ca751" />
 
-
----
-
-# 10. Applications
-
-The implemented architecture can be used in:
-
-* Image Processing Systems
-* Video Processing Pipelines
-* Embedded Vision Systems
-* Data Acquisition Systems
-* Communication Interfaces
-* Real-Time Monitoring Applications
-* Sensor Data Buffering Systems
-
----
-
-# 11. Skills Acquired
-
-During this project, the following concepts were learned:
-
-* Verilog HDL Design
-* Hierarchical Design Methodology
-* FIFO Implementation
-* Finite State Machine Design
-* RTL Schematic Analysis
-* Functional Simulation
-* Module Integration
-* Digital System Verification using Vivado
-
----
-
-# 12. Conclusion
+Conclusion
 
 A complete digital system consisting of a Face Detection Module, an 8-bit FIFO Buffer, and an FSM-Based Output Controller was successfully designed and integrated using Verilog HDL. The FIFO effectively handled the difference in operating speeds between the producer and consumer modules, ensuring reliable data transfer without loss. Simulation and RTL analysis verified the correctness of the design and demonstrated successful operation of the integrated system.
 
