@@ -1,4 +1,4 @@
-<img width="1030" height="532" alt="image" src="https://github.com/user-attachments/assets/7bb776b0-4db9-4068-8e4d-b86d725690a7" />Day 2 – Task 4: Universal Shift Register (USR) Design and Verification
+ />Day 2 – Task 4: Universal Shift Register (USR) Design and Verification
 
 Objective
 
