@@ -1,4 +1,4 @@
- />Day 2 – Task 4: Universal Shift Register (USR) Design and Verification
+Day 2 – Task 4: Universal Shift Register (USR) Design and Verification
 
 Objective
 
