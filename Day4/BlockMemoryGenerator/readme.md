@@ -1,4 +1,4 @@
-# Day 3 – Task 3: Single-Port RAM Design and Verification
+# Day 4– Task 1: BLOCK MMEMORY GENERATOR
 
 ## Objective
 
