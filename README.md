@@ -14,46 +14,77 @@ design-assignement-sooraj/
 │   │   │   └── design_bcd.v
 │   │   ├── tb/
 │   │   │   └── BCD_tb.v
-│   │   └── bcd.md
+│   │   └── readme.md
 │   │
 │   └── Ripple_Carry_Adder/
 │       ├── design/
 │       │   └── design_rca.v
 │       ├── tb/
 │       │   └── RCA_tb.v
-│       └── rca.md
+│       └── readme.md
 │
-└── Day2/
-    │
-    ├── 2x4 Decoder/
-    │   ├── design/
-    │   │   └── design_decoder.v
-    │   ├── tb/
-    │   │   └── decoder_tb.v
-    │   └── decoder.md
-    │
-    ├── DFF/
-    │   ├── design/
-    │   │   └── design_dff.v
-    │   ├── tb/
-    │   │   └── DFF_tb.v
-    │   └── dff.md
-    │
-    ├── SR_ff/
-    │   ├── design/
-    │   │   └── design_srff.v
-    │   ├── tb/
-    │   │   └── srff_tb.v
-    │   └── srff.md
-    │
-    └── USR/
-        ├── design/
-        │   └── design_usr.v
-        ├── tb/
-        │   └── USR_tb.v
-        └── usr.md
-```
-
+├── day2/
+│   │
+│   ├── 2x4_Decoder/
+│   │   ├── design/
+│   │   │   └── design_decoder.v
+│   │   ├── tb/
+│   │   │   └── decoder_tb.v
+│   │   └── readme.md
+│   │
+│   ├── DFF/
+│   │   ├── design/
+│   │   │   └── design_dff.v
+│   │   ├── tb/
+│   │   │   └── DFF_tb.v
+│   │   └── readme.md
+│   │
+│   ├── SR_ff/
+│   │   ├── design/
+│   │   │   └── design_srff.v
+│   │   ├── tb/
+│   │   │   └── srff_tb.v
+│   │   └── readme.md
+│   │
+│   └── USR/
+│       ├── design/
+│       │   └── design_usr.v
+│       ├── tb/
+│       │   └── USR_tb.v
+│       └── readme.md
+│
+├── day3/
+│   │
+│   ├── Face_Detector/
+│   │   ├── design/
+│   │   │   ├── face_mod.v
+│   │   │   ├── fifo.v
+│   │   │   ├── mod_out.v
+│   │   │   └── top.v
+│   │   ├── tb/
+│   │   │   ├── face_mod_tb.v
+│   │   │   ├── fifo_tb.v
+│   │   │   ├── mod_out_tb.v
+│   │   │   └── top_tb.v
+│   │   └── readme.md
+│   │
+│   └── Sequence_Detector/
+│       ├── design/
+│       │   └── design.v
+│       ├── tb/
+│       │   └── tb.v
+│       └── readme.md
+│
+├── day4/
+│   │
+│   └── Block_Memory_Generator/
+│       ├── design/
+│       │   └── bram.v
+│       ├── tb/
+│       │   └── bram_tb.v
+│       └── readme.md
+│
+└── README.md
 
 * Simulation and Waveform Analysis
 * Version Control using Git and GitHub
