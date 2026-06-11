@@ -1,4 +1,4 @@
-# Day 4– Task 1: BLOCK MMEMORY GENERATOR
+# Day 4– Task 1: BLOCK MEMORY GENERATOR
 
 ## Objective
 
