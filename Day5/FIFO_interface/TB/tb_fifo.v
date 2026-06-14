@@ -4,9 +4,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 13.06.2026 20:12:12
+// Create Date: 14.06.2026 19:27:14
 // Design Name: 
-// Module Name: BCD_tb2
+// Module Name: FIFO_tb_inf
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -19,34 +19,50 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-interface adder;
-logic [3:0]a,b,sum;
-logic cin,carry;
+interface inf;
+
+logic  clk,rst,wrenb,rdenb, full,empty;
+logic [7:0]data_in,data_out;
+ 
 endinterface
 
-module BCD_tb2();
+module FIFO_tb_inf();
+inf intf1();
+FIFO dut( intf1.clk,intf1.rst,intf1.wrenb,intf1.rdenb,intf1.data_in,intf1.data_out,intf1.full,intf1.empty);
+always #5 intf1.clk=~intf1.clk;
+initial begin
+{intf1.clk,intf1.rst,intf1.wrenb,intf1.rdenb,intf1.data_in}=0;
+ end 
+ initial begin 
+ 
+ intf1.rst = 1;
+    #10;
+   intf1.rst = 0;
 
-adder adinf();
-bcd_adder dut(adinf.a,adinf.b,adinf.cin,adinf.sum,adinf.carry);
-initial 
-begin
-  {adinf.a, adinf.b,adinf.cin} = 0;
-end
+    // Write data into FIFO
+    intf1.wrenb = 1;
 
-initial 
-begin
-#10;
-adinf.a=4'b0100;
-adinf.b=4'b0011;
-adinf.cin=1'b0;
-#10;
+    intf1.data_in = 8'h11; #10;
+    intf1.data_in = 8'h22; #10;
+    intf1.data_in = 8'h33; #10;
+    intf1.data_in= 8'h44; #10;
+
+    intf1.wrenb  = 0;
+
+    // Read data from FIFO
+    #10;
+   intf1.rdenb = 1;
+
+    #10;
+    #10;
+    #10;
+    #10;
+
+    intf1.rdenb = 0;
+
+ end
+ 
 
 
-adinf.a=4'b0101;
-adinf.b=4'b0110;
-adinf.cin=1'b0;
 
-#10;
-
-end
 endmodule
