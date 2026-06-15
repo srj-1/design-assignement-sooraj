@@ -14,8 +14,8 @@ constraint c1 {
                              8'hAA := 5,
                               8'h55 := 5};      
                                     };
-    function void display();
-        $display("rst_tb=%0d wrenb_tb=%0b rdenb_tb=%0b din=%0h dout=%0h full=%0b empty=%0b ",
-                  rst_tb,wrenb_tb,rdenb_tb,data_in_tb,data_out_tb, full, empty );
-    endfunction
+function void display();
+  $display("rst_tb=%0d wrenb_tb=%0b rdenb_tb=%0b din=%0h dout=%0h full=%0b empty=%0b ",
+            rst_tb,wrenb_tb,rdenb_tb,data_in_tb,data_out_tb, full, empty );
+endfunction
 endclass
