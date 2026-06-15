@@ -7,23 +7,34 @@ This repository contains the assignments and projects completed during my Digita
 
 # Design Assignment - Sooraj
 
-## Directory Structure
+## 📂 Daily Work
+## 📂 Project Navigation
 
-- [BCD Adder](./Day1/BCD_Adder/)
-- [Ripple Carry Adder](./Day1/Ripple_Carry_Adder/)
+### Day 1
+- [Day 1](./Day1/)
+  - [BCD Adder](./Day1/BCD_Adder/)
+  - [Ripple Carry Adder](./Day1/Ripple_Carry_Adder/)
 
-- [2x4 Decoder](./Day2/2x4%20Decoder/)
-- [DFF](./Day2/DFF/)
-- [SR FF](./Day2/SR_ff/)
-- [USR](./Day2/USR/)
+### Day 2
+- [Day 2](./Day2/)
+  - [2x4 Decoder](./Day2/2x4%20Decoder/)
+  - [DFF](./Day2/DFF/)
+  - [SR FF](./Day2/SR_ff/)
+  - [USR](./Day2/USR/)
 
-- [Face Detector](./Day3/Face_detector/)
-- [Sequence Detector](./Day3/SequenceDetector/)
+### Day 3
+- [Day 3](./Day3/)
+  - [Face Detector](./Day3/Face_detector/)
+  - [Sequence Detector](./Day3/SequenceDetector/)
 
-- [Block Memory Generator](./Day4/BlockMemoryGenerator/)
+### Day 4
+- [Day 4](./Day4/)
+  - [Block Memory Generator](./Day4/BlockMemoryGenerator/)
 
-- [BCD Adder Interface](./Day5/BCD_adder_Interface/)
-- [FIFO Interface](./Day5/FIFO_interface/)
+### Day 5
+- [Day 5](./Day5/)
+  - [BCD Adder Interface](./Day5/BCD_adder_Interface/)
+  - [FIFO Interface](./Day5/FIFO_interface/)
 ## Additional Contents
 
 - Simulation and Waveform Analysis
