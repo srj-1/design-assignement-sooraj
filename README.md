@@ -4,7 +4,7 @@ This repository contains the assignments and projects completed during my Digita
 
 ## Repository Structure
 
-```text
+
 # Design Assignment - Sooraj
 
 ## Directory Structure
