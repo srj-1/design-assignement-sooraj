@@ -1,4 +1,4 @@
-class transaction;
+class trans_f;
 rand bit rst_tb,wrenb_tb,rdenb_tb;
 rand bit [7:0]data_in_tb;
 bit [7:0]data_out_tb;
