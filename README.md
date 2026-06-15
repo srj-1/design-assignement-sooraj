@@ -9,23 +9,21 @@ This repository contains the assignments and projects completed during my Digita
 
 ## Directory Structure
 
-- [Day 1](./day1/)
-  - [BCD Adder](./day1/BCD_Adder/)
-  - [Ripple Carry Adder](./day1/Ripple_Carry_Adder/)
+- [BCD Adder](./Day1/BCD_Adder/)
+- [Ripple Carry Adder](./Day1/Ripple_Carry_Adder/)
 
-- [Day 2](./day2/)
-  - [2x4 Decoder](./day2/2x4_Decoder/)
-  - [D Flip-Flop](./day2/DFF/)
-  - [SR Flip-Flop](./day2/SR_ff/)
-  - [Universal Shift Register](./day2/USR/)
+- [2x4 Decoder](./Day2/2x4%20Decoder/)
+- [DFF](./Day2/DFF/)
+- [SR FF](./Day2/SR_ff/)
+- [USR](./Day2/USR/)
 
-- [Day 3](./day3/)
-  - [Face Detector Mini Project](./day3/Face_Detector/)
-  - [Sequence Detector](./day3/Sequence_Detector/)
+- [Face Detector](./Day3/Face_detector/)
+- [Sequence Detector](./Day3/SequenceDetector/)
 
-- [Day 4](./day4/)
-  - [Block Memory Generator](./day4/Block_Memory_Generator/)
+- [Block Memory Generator](./Day4/BlockMemoryGenerator/)
 
+- [BCD Adder Interface](./Day5/BCD_adder_Interface/)
+- [FIFO Interface](./Day5/FIFO_interface/)
 ## Additional Contents
 
 - Simulation and Waveform Analysis
