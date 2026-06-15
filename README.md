@@ -7,8 +7,8 @@ This repository contains the assignments and projects completed during my Digita
 
 # Design Assignment - Sooraj
 
-## 📂 Daily Work
-## 📂 Project Navigation
+## 📂 Daily Task Work
+
 
 ### Day 1
 - [Day 1](./Day1/)
