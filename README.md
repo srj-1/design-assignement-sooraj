@@ -37,7 +37,7 @@ This repository contains the assignments and projects completed during my Digita
   - [FIFO Interface](./Day5/FIFO_interface/)
 ### Day 6
 -[Day 6](./Day5/)
-.[Transaction class for FIFO](./Day6/Transaction_fifo)
+-[Transaction class for FIFO](./Day6/Transaction_fifo)
 ## Additional Contents
 
 - Simulation and Waveform Analysis
