@@ -36,7 +36,7 @@ This repository contains the assignments and projects completed during my Digita
   - [BCD Adder Interface](./Day5/BCD_adder_Interface/)
   - [FIFO Interface](./Day5/FIFO_interface/)
 ### Day 6
--[Day 6](./Day5/)
+- [Day 6](./Day5/)
   - [Transaction class for FIFO](./Day6/Transaction_fifo)
 ## Additional Contents
 
