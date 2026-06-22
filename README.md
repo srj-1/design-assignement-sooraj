@@ -43,14 +43,3 @@ Each project contains:
 
 ---
 
-## Tools Used
-
-- Xilinx Vivado
-- Verilog HDL
-- SystemVerilog
-- Git & GitHub
-
-## Author
-
-**Sooraj H**
-ECE Engineering Student
