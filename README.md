@@ -36,8 +36,12 @@ This repository contains the assignments and projects completed during my Digita
   - [BCD Adder Interface](./Day5/BCD_adder_Interface/)
   - [FIFO Interface](./Day5/FIFO_interface/)
 ### Day 6
-- [Day 6](./Day5/)
+- [Day 6](./Day6/)
   - [Transaction class for FIFO](./Day6/Transaction_fifo)
+  ### Day 8
+- [Day 6](./Day8/)
+  - [APB Protocol](./Day8/APB)
+## Additional Contents
 ## Additional Contents
 
 - Simulation and Waveform Analysis
