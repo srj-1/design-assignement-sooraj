@@ -39,7 +39,7 @@ This repository contains the assignments and projects completed during my Digita
 - [Day 6](./Day6/)
   - [Transaction class for FIFO](./Day6/Transaction_fifo)
   ### Day 8
-- [Day 6](./Day8/)
+- [Day 8](./Day8/)
   - [APB Protocol](./Day8/APB)
 ## Additional Contents
 ## Additional Contents
